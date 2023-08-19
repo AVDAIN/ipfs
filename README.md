@@ -6,4 +6,6 @@ For papers on IPFS, please see the [**Academic Papers**](https://docs.ipfs.tech/
 
 ## License
 
+// Next.js IPFS
+
 [MIT](LICENSE).
